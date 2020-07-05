@@ -1,4 +1,8 @@
 ## Ai-Thinker-Open-qcloud-esp-wifi
+
+- GitHub地址：[https://github.com/Ai-Thinker-Open/Ai-Thinker-Open-qcloud-esp-wifi](https://github.com/Ai-Thinker-Open/Ai-Thinker-Open-qcloud-esp-wifi)
+- Gitee地址: [https://gitee.com/xuhongv/qcloud-iot-esp-wifi](https://gitee.com/xuhongv/qcloud-iot-esp-wifi)
+
 ## 介绍
 
 本仓库使用安信可ESP8266模组来接入腾讯云物联开发平台，支持微信连连小程序/smartconfig/绑定/控制；
