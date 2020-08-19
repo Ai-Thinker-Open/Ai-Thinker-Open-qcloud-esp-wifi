@@ -1,4 +1,4 @@
-## Ai-Thinker-Open-qcloud-esp-wifi
+## qcloud-iot-esp-wifi
 
 - GitHub地址：[https://github.com/Ai-Thinker-Open/Ai-Thinker-Open-qcloud-esp-wifi](https://github.com/Ai-Thinker-Open/Ai-Thinker-Open-qcloud-esp-wifi)
 - Gitee地址: [https://gitee.com/xuhongv/qcloud-iot-esp-wifi](https://gitee.com/xuhongv/qcloud-iot-esp-wifi)
